@@ -1,3 +1,3 @@
-# Trainig_Projects
+# Capstone_Projects
 
-Contains basic training materias for Data Science
+Contains capstone training materias for Data Science
